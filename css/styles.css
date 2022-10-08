@@ -101,6 +101,10 @@ p{
 .pricing-column{
     padding: 3% 2%;
 }
+.card-head{
+    background-color: #8f8f8f;
+    color: white;
+}
 #cta{
     background-color: #ff4c68;
     color: white;
